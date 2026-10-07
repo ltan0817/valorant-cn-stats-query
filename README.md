@@ -14,7 +14,7 @@
 
 主站地址：
 
-[https://val.skzspro.cn/public](https://val.skzspro.cn/public)
+[无](无)
 
 支持输入：
 
@@ -86,7 +86,7 @@ GGbone#55989
 
 如果你只是想查战绩，直接打开：
 
-[https://val.skzspro.cn/public](https://val.skzspro.cn/public)
+[无](无)
 
 ### 当前对局助手
 
@@ -165,7 +165,7 @@ flowchart LR
 
 主站：
 
-[https://val.skzspro.cn/public](https://val.skzspro.cn/public)
+[无](无)
 
 建议体验方式：
 
