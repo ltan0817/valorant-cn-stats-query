@@ -7,7 +7,7 @@
 项目目标是让用户直接访问主站使用：
 
 ```text
-https://val.skzspro.cn/public
+无
 ```
 
 ## 为什么不公开核心代码？
