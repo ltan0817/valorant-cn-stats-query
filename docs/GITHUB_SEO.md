@@ -5,7 +5,7 @@
 主站：
 
 ```text
-https://val.skzspro.cn/public
+无
 ```
 
 ## 仓库名建议
@@ -42,7 +42,7 @@ Description 建议：
 Website 填：
 
 ```text
-https://val.skzspro.cn/public
+无
 ```
 
 Topics 建议：
